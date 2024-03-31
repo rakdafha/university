@@ -37,9 +37,11 @@
 background-color: black;
 color: white;
 }
-.a
+.description
 {
-color: red;
+font-size: 22px;
+color: white;
+font-weight: bold;
 }
 
 </style>
